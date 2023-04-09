@@ -36,7 +36,7 @@ In this repository find .stl files for
 * Cups for DHR-style and AR-style rheometers (tested with DHR-3, AR-G2)
   * Cup base to mount to a flat peltier base, which then accepts a second part, either a cup with a bottom (for viscous fluids) or a cup without a bottom (for yield stress fluids, easier to clean)  
   * One-part cup to slide into a DHR-style peltier jacket
-  * Cup for creating foam in-situ, using the 3D printed cup in addition to an airstone and airflow
+  * Cup for creating foam in-situ, using the 3D printed cup in addition to an airstone and airflow. This is provided in a directly-printable .form file for a Form2 or Form3 printer and also requires printing of the cup base to mount to the rheometer. 
   
 * Vanes for ARES-style rheometers (tested with ARES-G2, original ARES)
   * 12-arm fractal for fitting to an ARES coupling. The fitting has been verified but the concentricity of rotation has not 
