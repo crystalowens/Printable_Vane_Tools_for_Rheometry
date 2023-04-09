@@ -3,23 +3,26 @@ Design tools and guidelines for using 3D printable rheometry devices
 
 Please give credit for tools to the appropriate references: 
 
-1) Improved rheometry of yield stress fluids using bespoke fractal 3D printed vanes  
-Journal of Rheology 64, 643 (2020); https://doi.org/10.1122/1.5132340
-Crystal E. Owens, A. John Hart, and Gareth H. McKinley 
+1\) Improved rheometry of yield stress fluids using bespoke fractal 3D printed vanes  
+&emsp;Journal of Rheology 64, 643 (2020); https://doi.org/10.1122/1.5132340   
+&emsp;Crystal E. Owens, A. John Hart, and Gareth H. McKinley 
 
-* for most tools and cups 
+    * for most tools 
+    * for the coupling to the rheometer
+    * for the cup that mounts to the flat peltier base
 
-2) Computational rheometry of yielding and viscoplastic flow in vane-and-cup rheometer fixtures
-Journal of Non-Newtonian Fluid Mechanics 37, 104857 (2022); https://doi.org/10.1016/j.jnnfm.2022.104857
-Emad Chaparian, Crystal E. Owens, and Gareth H. McKinley
+2\) Computational rheometry of yielding and viscoplastic flow in vane-and-cup rheometer fixtures  
+&emsp;Journal of Non-Newtonian Fluid Mechanics 37, 104857 (2022); https://doi.org/10.1016/j.jnnfm.2022.104857  
+&emsp;Emad Chaparian, Crystal E. Owens, and Gareth H. McKinley
 
-* for 8-arm tool design 
+    * for the 8-arm tool design 
 
-3) Time-resolved rheometry of coarsening foams using three-dimensionally printed fractal vanes 
-Physics of Fluids 34, 113108 (2022); https://doi.org/10.1063/5.0119944
-Igor M. Carraretto, Crystal E. Owens, and Gareth H. McKinley
+3\) Time-resolved rheometry of coarsening foams using three-dimensionally printed fractal vanes   
+&emsp;Physics of Fluids 34, 113108 (2022); https://doi.org/10.1063/5.0119944  
+&emsp;Igor M. Carraretto, Crystal E. Owens, and Gareth H. McKinley
 
-* for foaming cup
+    * for the foaming cup
+    * for the cup that slides into the peltier jacket
 
 # Getting started 
 
@@ -28,10 +31,11 @@ See our pdf guide file for general instructions, and see our relevant papers for
 # Tools included 
 
 In this repository find .stl files for 
-* Vanes for DHR-style and AR-style rheometers (tested with DHR-3, AR-G2)
-  * 8-arm fractal vane 
-  * 12-arm fractal vane
-  * 24-arm fractal vane
+* Vanes for DHR-style and AR-style rheometers (tested with DHR-3, AR-G2)  
+    * 8-arm fractal vane 
+    * 12-arm fractal vane
+    * 24-arm fractal vane
+    * 4-arm fractal vane 
   
 * Cups for DHR-style and AR-style rheometers (tested with DHR-3, AR-G2)
   * Cup base to mount to a flat peltier base, which then accepts a second part, either a cup with a bottom (for viscous fluids) or a cup without a bottom (for yield stress fluids, easier to clean)  
